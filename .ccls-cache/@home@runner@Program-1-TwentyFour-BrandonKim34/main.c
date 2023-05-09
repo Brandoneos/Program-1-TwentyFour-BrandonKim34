@@ -9,6 +9,7 @@ Author: Brandon Kim
 #include <time.h>
 #include <math.h>
 //Declarations of 2 functions used
+//test
 double getValue(double int1, double int2, char symbol);
 double getValue2(double f1,char s1,double f2,char s2, double f3, char s3, double f4);
 
